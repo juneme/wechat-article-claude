@@ -42,7 +42,7 @@ cp -r wechat-article-claude ~/.claude/skills/wechat-article
 ```
 SKILL.md                     写作与投递的入口，不含版式规定
 references/
-  wechat-format.md           微信会删什么、图片怎么引用、正文片段格式
+  wechat-format.md           微信会删什么、图片怎么引用、网页编辑器与文章页的坑
   typography.md              手机中文可读性下限（下限，不是风格）
   client.md                  命令总表与安全语义
 scripts/
